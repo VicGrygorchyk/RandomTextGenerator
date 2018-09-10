@@ -4,6 +4,11 @@ Android app for the QA to generate random strings and copy/paste it into the app
 The app allows to generate text string of desired length and copy it to the Android copy buffer (clipboard).
 Later, this string can be pasted into the app under test.
 
+Install:
+1) Download TextGenerator.apk
+2) Transfer the file to your device (via USB-cable or send by email)
+3) Install the app by tapping on the transfered file.
+
 ![alt text](https://github.com/Vickgrego/RandomTextGenerator/blob/master/how_app_lools.png)
 
 usage:
