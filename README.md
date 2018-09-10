@@ -9,9 +9,9 @@ Install:
 2) Transfer the file to your device (via USB-cable or send by email)
 3) Install the app by tapping on the transfered file.
 
-![alt text](https://github.com/Vickgrego/RandomTextGenerator/blob/master/how_app_look1.png)
+![alt text](https://github.com/VicGrygorchyk/RandomTextGenerator/blob/master/how_app_look1.png)
 
-![alt text](https://github.com/Vickgrego/RandomTextGenerator/blob/master/how_app_look2.png)
+![alt text](https://github.com/VicGrygorchyk/RandomTextGenerator/blob/master/how_app_look2.png)
 
 usage:
 Select the string's length from 1 - to 999 symbols.
